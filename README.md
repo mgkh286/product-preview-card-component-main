@@ -26,8 +26,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![desktop](https://github.com/mgkh286/qr-code-component-main/blob/master/scr-shot/desktop.PNG)
-![Mobile](https://github.com/mgkh286/qr-code-component-main/blob/master/scr-shot/responsive.PNG)
+![desktop](https://github.com/mgkh286/product-preview-card-component-main/blob/master/images/scrshot/desktop.PNG)
+![Mobile](https://github.com/mgkh286/product-preview-card-component-main/blob/master/images/scrshot/mobile.PNG)
 
 ### Links
 
@@ -49,26 +49,29 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+ <button>
+          <img src="images/icon-cart.svg" alt="cart" />
+          <span>Add to Cart</span>
+        </button>
 ```
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+body {
+  background-color: hsl(30, 38%, 92%);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+
 
 ### Continued development
 
-i will focus on using flexbox layout in the future projects. These concepts am comfortable with and i found tit very useful .
-
-i will focus on using relative units vh or vw it helps me to write short and clean code
-
-i will focus on specificity using class or id selectors
+i will focus on using flexbox layout in the future projects. These concepts am comfortable with and i found it very useful .
+also i will focus on using flexbox child layout in the future projects.
+i will focus on using relative units vh or vw it helps me to write short and clean code.
+i will focus on specificity using class or id selectors .
+i will focus in using background and it's properties .
 
 
 ### Useful resources
@@ -80,7 +83,7 @@ i will focus on specificity using class or id selectors
 
 ## Author
 
-- Website - [Mohamed khalifa](https://khamsat.com/user/m1_m2)
+- Website - [Mohamed khalifa](https://github.com/mgkh286)
 - Frontend Mentor - [@mgkh286](https://www.frontendmentor.io/profile/mgkh286)
 - Twitter - [@mmd1790](https://twitter.com/mmd1790)
 
@@ -88,5 +91,5 @@ i will focus on specificity using class or id selectors
 
 ## Acknowledgments
 
-My Mentor dev [Hossam Khalaf](https://www.linkedin.com/in/hossam-khalaf-080875171/?originalSubdomain=eg) helped me on this project. ad give me inspiration in learning programming.
+My Mentor dev [Hossam Khalaf](https://www.linkedin.com/in/hossam-khalaf-080875171/?originalSubdomain=eg) helped me on this project. also give me inspiration in learning programming.
 

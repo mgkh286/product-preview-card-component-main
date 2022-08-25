@@ -31,7 +31,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [solution URL ](https://www.frontendmentor.io/solutions/productpreviewcardcomponentmain-using-html-css-1ihbhQY6Rp)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/productpreviewcardcomponentmain-using-html-css-1ihbhQY6Rp)
 - Live Site URL: [live site URL](https://mgkh286.github.io/product-preview-card-component-main/)
 
 ## My process
